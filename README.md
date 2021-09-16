@@ -1,6 +1,6 @@
 # cypress-version-undefined
 
-How to reproduce:
+How to reproduce https://github.com/cypress-io/cypress/issues/18082:
 
 * clone repo
 * npm install
