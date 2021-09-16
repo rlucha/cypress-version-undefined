@@ -1,0 +1,13 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/webpack-dev-server": "1.6.0",
+    "cypress": "8.3.1"
+  }
+}
